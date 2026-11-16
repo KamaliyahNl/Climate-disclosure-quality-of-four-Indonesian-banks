@@ -55,7 +55,7 @@ Disclosure is deepest on metrics and targets, which average 4.92 out of 5. Every
 # What separates the banks
 BRI leads because it combines strong governance (4 on both governance sub-categories) with disclosure the others lack. It is the only bank with a numeric sector materiality assessment, in which the top three loan sectors make up 77.98% of the portfolio, and the only bank that discloses an internal carbon price. BCA trails because it gives no quantified greenhouse gas target, no scenario results and no assessment outputs. Mandiri and BRI publish KPI weights for directors and managers, BNI, Mandiri and BRI report numeric stress-test results, and every bank except BCA sets quantified emissions targets.All four banks describe their climate risk processes in detail but, in the pages checked, none discloses numeric limits or thresholds for managing and integrating climate risk. This is the common gap in the sample.
 
-#Emissions
+# Emissions
 
 Financed emissions dominate the footprint. They are between 96% and 99.6% of each bank's reported emissions, so targets that cover operations alone address only a small part of the total. Operating emissions (Scope 1 and 2) in 2025 were 176,615 tonnes of CO2 equivalent at BNI, 153,883 at BCA, 243,736 at Mandiri and 445,140 at BRI. Against 2023, BNI fell 6.7%, Mandiri fell 17.6% and BRI fell 8.5%, while BCA rose 8.5%. BCA is the only bank above its 2023 level, and its 2025 figure is annualised from January to September data.
 
